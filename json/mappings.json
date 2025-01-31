@@ -1,0 +1,71 @@
+{
+	"Age": {
+		"<18": 4,
+		"18 - 22": 3,
+		"22 - 26": 2,
+		">26": 1
+	},
+	"Social Media Usage": {
+		"Never": 0,
+		"Rarely": 1,
+		"Sometimes": 2,
+		"Always": 3
+	},
+	"Primary Mobile Usage": {
+		"Education": 2,
+		"Entertainment": 1,
+		"Social Media": 0
+	},
+	"Mobile used for Education": {
+		"Yes": 1,
+		"Maybe": 0.5,
+		"No": 0
+	},
+	"Study Hours (Daily)": {
+		"<2 Hours": 0,
+		"2 - 4 Hours": 1,
+		"4 - 6 Hours": 2,
+		">6 Hours": 3
+	},
+	"Academic Performance (%)": {
+		"<50%": 0,
+		"50 - 70%": 1,
+		"70 - 85%": 2,
+		">85%": 3
+	},
+	"Impact of Mobile on Performance": {
+		"Yes": 1,
+		"No": 0
+	},
+	"Mobile Usage During Exams": {
+		"Increased": 1,
+		"Decreased": -1,
+		"No Change": 0
+	},
+	"Mobile Usage Monitoring Apps": {
+		"Yes": 1,
+		"No": 0
+	},
+	"Considered Reducing Mobile Usage": {
+		"Yes": 1,
+		"No": 0
+	},
+	"Mobile as Distraction or Learning Tool": {
+		"Distraction": 1,
+		"Tool for Learning": 0
+	},
+	"Gender": {
+		"Male": 1,
+		"Female": 0
+	},
+	"Location": {
+		"Rural": 1,
+		"Urban": 0
+	},
+	"Mobile Usage (Hours)": {
+		"<2 Hours": 0,
+		"2 - 4 Hours": 1,
+		"4 - 6 Hours": 2,
+		">6 Hours": 3
+	}
+}

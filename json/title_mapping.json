@@ -1,0 +1,17 @@
+{
+	"Name": "Name",
+	"Age": "Age",
+	"Gender ": "Gender",
+	"Location ": "Location",
+	"How many hours do you use your mobile phone daily?": "Mobile Usage (Hours)",
+	"How often do you use social media on your phone?": "Social Media Usage",
+	"What is your primary purpose for mobile phone usage?": "Primary Mobile Usage",
+	"Do you use your mobile phone for educational purposes?": "Mobile used for Education",
+	"How much time do you dedicate to academic studies daily?": "Study Hours (Daily)",
+	"What is your average academic performance?": "Academic Performance (%)",
+	"Do you think mobile usage impacts your academic performance?": "Impact of Mobile on Performance",
+	"Has your mobile usage increased or decreased during exam preparation?": "Mobile Usage During Exams",
+	"Do you use any apps to limit or track your mobile usage?": "Mobile Usage Monitoring Apps",
+	"Have you ever considered reducing your mobile usage to improve academic performance?": "Considered Reducing Mobile Usage",
+	"Do you think mobile phones are more of a distraction or a tool for learning?": "Mobile as Distraction or Learning Tool"
+}
