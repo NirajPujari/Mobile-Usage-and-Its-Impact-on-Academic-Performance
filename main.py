@@ -22,8 +22,8 @@ def main():
     df = load_csv(file_paths["output"])
 
     # Step 1: Perform Exploratory Data Analysis (EDA)
-    # print("\nStarting EDA...")
-    # perform_eda(df)
+    print("\nStarting EDA...")
+    perform_eda(df)
 
     # Step 2: Perform Clustering
     print("\nStarting Clustering...")

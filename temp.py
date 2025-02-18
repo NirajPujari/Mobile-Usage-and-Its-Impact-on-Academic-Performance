@@ -5,7 +5,6 @@ import pandas as pd
 
 df = pd.read_csv("C:/Users/pujar/Desktop/Project/DS/dataset/survey_data.csv")
 
-
 first_names = [
     "Aarav",
     "Viren",

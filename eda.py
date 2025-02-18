@@ -63,16 +63,16 @@ def perform_eda(df: pd.DataFrame) -> None:
     plt.show()
 
     # 2.1. Correlation matrix heatmap with focus on selected features
-    selected_columns = [
-        "Mobile Usage (Hours)",
-        "Social Media Usage",
-        "Study Hours (Daily)",
-        "Impact of Mobile on Performance",
-    ]
-    plt.figure(figsize=(8, 5))
-    sns.heatmap(df[selected_columns].corr(), annot=True, cmap="coolwarm", fmt=".2f")
-    plt.title("Correlation Heatmap - Selected Features")
-    plt.show()
+    # selected_columns = [
+    #     "Mobile Usage (Hours)",
+    #     "Social Media Usage",
+    #     "Study Hours (Daily)",
+    #     "Impact of Mobile on Performance",
+    # ]
+    # plt.figure(figsize=(8, 5))
+    # sns.heatmap(df[selected_columns].corr(), annot=True, fmt=".2f")
+    # plt.title("Correlation Heatmap - Selected Features")
+    # plt.show()
 
     # 3. Gender vs Mobile Usage
     sns.boxplot(x=df["Gender"], y=df["Mobile Usage (Hours)"])
