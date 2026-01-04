@@ -17,8 +17,8 @@ The project follows a **complete data science pipeline**, including preprocessin
 - To analyze which mobile usage factors most significantly impact academic results
 
 ## 🗂️ Project Structure
-
-`    project/
+```
+    project/
     │── dataset/              # Raw and processed CSV files
     │── json/                 # Column mappings and configuration files
     │── src/
@@ -31,7 +31,8 @@ The project follows a **complete data science pipeline**, including preprocessin
     │── main.py               # Pipeline execution entry point
     │── requirements.txt
     │── README.md
-    │── run.bat`
+    │── run.bat
+```
 
 ## 🔬 Methodology
 
